@@ -4,18 +4,26 @@ description: Request support from the Analytical Platform team
 title: "[AP Support]: "
 labels: ["ap-support", "triage"]
 assignees:
-  - "@ministryofjustice/analytical-platform-support"
+  - moj-data-platform-robot
 body:
   - type: markdown
     attributes:
       value: |
         Thanks for taking the time to fill out this support request form!
+  - type: dropdown
+    id: tool
+    attributes:
+      label: Which tool do you need help with?
+      multiple: true
+      options:
+        - Control Panel
+        - RStudio
   - type: textarea
     id: what-happened
     attributes:
       label: What happened?
       description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
+      placeholder: Tell us what you see, but don't include any sensitive information
     validations:
       required: true
   - type: textarea
