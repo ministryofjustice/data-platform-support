@@ -1,0 +1,9 @@
+---
+blank_issues_enabled: false
+contact_links:
+  - name: "#ask-analytical-platform"
+    url: https://mojdt.slack.com/archives/C051XTZNLJX
+    about: Please ask Analytical Platform questions here
+  - name: "#ask-data-platform"
+    url: https://mojdt.slack.com/archives/C04LY2RVCS2
+    about: Please ask Data Platform questions here
