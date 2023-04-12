@@ -1,8 +1,8 @@
 ---
-name: Analytical Platform Support Request
-description: Request support from the Analytical Platform team
-title: "[AP Support]: Brief description of your issue"
-labels: ["ap-support", "triage"]
+name: Data Platform Support Request
+description: Request support from the Data Platform team
+title: "[DP Support]: Brief description of your issue"
+labels: ["dp-support", "triage"]
 assignees:
   - moj-data-platform-robot
 body:
@@ -18,9 +18,8 @@ body:
       options:
         - GitHub
         - Amazon Web Services
-        - Control Panel
-        - JupyterLab
-        - RStudio
+        - MoJ Cloud Platform
+        - MoJ Modernisation Platform
   - type: textarea
     id: what-happened
     attributes:

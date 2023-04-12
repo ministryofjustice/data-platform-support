@@ -1,0 +1,21 @@
+---
+aws:
+  - 'Amazon Web Services'
+
+github:
+  - 'GitHub'
+
+control-panel:
+  - 'Control Panel'
+
+jupyterlab:
+  - 'JupyterLab'
+
+rstudio:
+  - 'RStudio'
+
+moj-cloud-platform:
+  - 'MoJ Cloud Platform'
+
+moj-modernisation-platform:
+  - 'MoJ Modernisation Platform'
