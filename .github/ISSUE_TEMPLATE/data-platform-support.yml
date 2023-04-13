@@ -1,7 +1,7 @@
 ---
 name: Data Platform Support Request
 description: Request support from the Data Platform team
-title: "[DP Support]: Brief description of your issue"
+title: "Brief description of your issue"
 labels: ["dp-support", "triage"]
 assignees:
   - moj-data-platform-robot

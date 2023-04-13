@@ -1,7 +1,7 @@
 ---
 name: Analytical Platform Support Request
 description: Request support from the Analytical Platform team
-title: "[AP Support]: Brief description of your issue"
+title: "Brief description of your issue"
 labels: ["ap-support", "triage"]
 assignees:
   - moj-data-platform-robot
@@ -21,6 +21,8 @@ body:
         - Control Panel
         - JupyterLab
         - RStudio
+        - Auth0
+        - Database Access
   - type: textarea
     id: what-happened
     attributes:
