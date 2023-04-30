@@ -9,7 +9,12 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this support request form!
+      🔎 Check for a solution in our user guidance here or search GitHub here, or this channel via :slack: search.
+      ✨ If you can't find an answer then please log a support issue via our new GitHub Issues template here
+      🙋 Please always include your :github: GitHub user name with :slack: slack support message requests
+      👋 If you are a new user follow guidance here and email your request to analytical_platform@digital.justice.gov.uk. (We may need one working day to action).
+      🚚 If your request is regarding App Migration please use [#data-platform-application-migration-support](https://mojdt.slack.com/archives/C0504KY0Z2N)        
+      Thanks for taking the time to fill out this support request form!
   - type: dropdown
     id: tool
     attributes:
