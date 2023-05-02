@@ -9,11 +9,8 @@ body:
   - type: markdown
     attributes:
       value: |
-      🔎 Check for a solution in our user guidance here or search GitHub here, or this channel via :slack: search.
-      ✨ If you can't find an answer then please log a support issue via our new GitHub Issues template here
-      🙋 Please always include your :github: GitHub user name with :slack: slack support message requests
-      👋 If you are a new user follow guidance here and email your request to analytical_platform@digital.justice.gov.uk. (We may need one working day to action).
-      🚚 If your request is regarding App Migration please use [#data-platform-application-migration-support](https://mojdt.slack.com/archives/C0504KY0Z2N)        
+      🔎 Check for a solution in our user guidance here or search GitHub [here](https://github.com/ministryofjustice/data-platform-support/issues?q=is%3Aissue), or the support channel [here](https://mojdt.slack.com/archives/C4PF7QAJZ)
+      🚚 If your request is regarding App Migration join this slack channel [#data-platform-application-migration-support](https://mojdt.slack.com/archives/C0504KY0Z2N)
       Thanks for taking the time to fill out this support request form!
   - type: dropdown
     id: tool
@@ -21,13 +18,14 @@ body:
       label: Which tool do you need help with?
       multiple: true
       options:
-        - GitHub
         - Amazon Web Services
+        - Auth0
         - Control Panel
+        - Database Access
+        - GitHub
         - JupyterLab
         - RStudio
-        - Auth0
-        - Database Access
+        - User and Account
   - type: textarea
     id: what-happened
     attributes:
