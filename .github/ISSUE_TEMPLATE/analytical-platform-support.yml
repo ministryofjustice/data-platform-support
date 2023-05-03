@@ -25,6 +25,8 @@ body:
         - GitHub
         - JupyterLab
         - RStudio
+        - S3
+        - Migration Support
         - User and Account
   - type: textarea
     id: what-happened
