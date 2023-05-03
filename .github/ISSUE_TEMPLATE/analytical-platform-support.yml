@@ -9,9 +9,9 @@ body:
   - type: markdown
     attributes:
       value: |
-      🔎 Check for a solution in our user guidance [here](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html) or search GitHub [here](https://github.com/ministryofjustice/data-platform-support/issues?q=is%3Aissue), or the support channel [here](https://mojdt.slack.com/archives/C4PF7QAJZ)
-      🚚 If your request is regarding App Migration join this slack channel [#data-platform-application-migration-support](https://mojdt.slack.com/archives/C0504KY0Z2N)
-      Thanks for taking the time to fill out this support request form!
+        🔎 Check for a solution in our user guidance [here](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html) or search GitHub [here](https://github.com/ministryofjustice/data-platform-support/issues?q=is%3Aissue), or the support channel [here](https://mojdt.slack.com/archives/C4PF7QAJZ)
+        🚚 If your request is regarding App Migration join this slack channel [#data-platform-application-migration-support](https://mojdt.slack.com/archives/C0504KY0Z2N)
+        Thanks for taking the time to fill out this support request form!
   - type: dropdown
     id: tool
     attributes:
