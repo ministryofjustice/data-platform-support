@@ -19,7 +19,9 @@ jobs:
     steps:
       - name: issue labeler
         id: issue_labeler
-        uses: actions/labeler@ba790c862c380240c6d5e7427be5ace9a05c754b # v4.0.3
+        uses: github/issue-labeler@e24a3eb6b2e28c8904d086302a2b760647f5f45c # v3.1
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
+          configuration-path: .github/labeler.yml
+          enable-versioned-regex: 0
           sync-labels: true
