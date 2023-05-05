@@ -18,7 +18,7 @@ rstudio:
   - 'RStudio'
 
 migratiion-support:
-  - 'Migration Support'
+  - 'Application Migration Support'
   
 moj-cloud-platform:
   - 'MoJ Cloud Platform'
