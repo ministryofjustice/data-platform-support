@@ -11,8 +11,8 @@ body:
       value: |
         🔎 Check for a solution in our user guidance [here](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html), search GitHub [here](https://github.com/ministryofjustice/data-platform-support/issues?q=is%3Aissue), or the support channel [here](https://mojdt.slack.com/archives/C4PF7QAJZ)
         🚚 If your request is regarding App Migration join this slack channel [#data-platform-application-migration-support](https://mojdt.slack.com/archives/C0504KY0Z2N) or create an issue with the `Application Migration Support` label below.
+        If you need help with getting added to GitHub Teams or Org please [#ask-operations-engineering](https://mojdt.slack.com/archives/C01BUKJSZD4)
         Thanks for taking the time to fill out this support request form!
-        If you need help with getting added to GitHub Teams or Org please [#ask-operations-engineering](https://mojdt.slack.com/archives/C01BUKJSZD4) 
   - type: dropdown
     id: tool
     attributes:
