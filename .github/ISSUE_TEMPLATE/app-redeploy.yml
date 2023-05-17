@@ -55,16 +55,16 @@ body:
       label: Is this a security fix?
       multiple: false
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
   - type: dropdown
     id: dependency
     attributes:
       label: Is there a dependency to another project/policy/activity?
       multiple: false
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
   - type: textarea
     id: dependency-text
     attributes:
@@ -75,13 +75,13 @@ body:
       label: Is there any commercial impact?
       multiple: false
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
   - type: dropdown
     id: refresh-data
     attributes:
       label: Is this update to refresh data?
       multiple: false
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
