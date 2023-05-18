@@ -17,7 +17,7 @@ jupyterlab:
 rstudio:
   - 'RStudio'
 
-migratiion-support:
+migration-support:
   - 'Application Migration Support'
   
 moj-cloud-platform:
