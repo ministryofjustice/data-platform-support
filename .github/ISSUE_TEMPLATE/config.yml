@@ -7,6 +7,9 @@ contact_links:
   - name: "#ask-data-platform"
     url: https://mojdt.slack.com/archives/C04VBJTKY58
     about: Please ask Data Platform questions here
+  - name: "#data-platform-application-migration-support"
+    url: https://mojdt.slack.com/archives/C0504KY0Z2N
+    about: If your request is regarding App Migration ask here or create an issue with the `Application Migration Support`
   - name: "#ask-operations-engineering"
     url: https://mojdt.slack.com/archives/C01BUKJSZD4
     about: Please ask questions here if you require assistance with GitHub (ministryofjustice or moj-analytical-services), for example, issues with multi-factor authentication
