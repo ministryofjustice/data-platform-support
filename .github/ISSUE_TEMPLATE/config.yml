@@ -7,9 +7,9 @@ contact_links:
   - name: "#ask-data-platform"
     url: https://mojdt.slack.com/archives/C04VBJTKY58
     about: Please ask Data Platform questions here
-  - name: "GitHub Account Management"
+  - name: "#ask-operations-engineering"
     url: https://mojdt.slack.com/archives/C01BUKJSZD4
-    about: GitHub account management e.g. MoJ or AP Org, issues with 2FA etc #ask-operations-engineering
-  - name: "Redeploy App Request"
+    about: Please ask questions here if you require assistance with GitHub (ministryofjustice or moj-analytical-services), for example, issues with multi-factor authentication
+  - name: "Redeploy Analytical Platform App"
     url: https://github.com/moj-analytical-services/analytical-platform-applications/issues/new?assignees=EO510%2C+YvanMOJdigital&labels=redeploy&projects=&template=redeploy-app-request.md&title=%5BREDEPLOY%5D
     about: Raise a request to redeploy your Analytical Platform app
