@@ -19,3 +19,9 @@ jobs:
         id: issue_staler
         uses: actions/stale@1160a2240286f5da8ec72b1c0816ce2481aabf84 # v8.0.0
         with:
+          days-before-issue-stale: 5
+          days-before-issue-close: 7
+          stale-issue-message: "This issue is stale because it has been open for 5 days with no activity. Remove stale label or comment to keep the issue open."
+          close-issue-message: "This issue is being closed because it has been open for 7 days with no activity. If this is still a valid issue, please reopen it with any additional information you can provide. Thank you!"
+          stale-issue-label: "stale"
+          exempt-issue-labels: "triage, awaiting-response, pending-release"
