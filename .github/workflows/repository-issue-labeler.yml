@@ -17,7 +17,7 @@ jobs:
       contents: read
       issues: write
     steps:
-      - name: issue labeler
+      - name: Issue labeler
         id: issue_labeler
         uses: github/issue-labeler@e24a3eb6b2e28c8904d086302a2b760647f5f45c # v3.1
         with:
